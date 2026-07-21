@@ -6,28 +6,36 @@ Warna mengalir dinamis dari wallpaper — ganti wallpaper, semua komponen beruba
 Hyprland + Noctalia Shell + Material You dynamic theming.
 
 ## Stack
-| Component | Tool |
+
+| Komponen | Tools |
 |---|---|
 | WM | Hyprland 0.55+ (Lua) |
 | Shell | Noctalia (QuickShell-based) |
 | Terminal | Kitty |
 | Font | JetBrainsMono Nerd Font |
-| Icons | Papirus-Dark |
-| Cursor | Bibata-Modern-Ice |
+| Ikon | Papirus-Dark |
+| Kursor | Bibata-Modern-Ice |
 | GTK | adw-gtk3-dark + Noctalia dynamic |
 
-## Keybinds
-| Key | Action |
+## Keybind
+
+| Tombol | Fungsi |
 |---|---|
-| `Super + W` | Random wallpaper |
-| `Super + Shift + W` | Wallpaper picker |
-| `Super + Shift + R` | Refresh theme templates |
+| `Super + W` | Buka browser |
+| `Super + Ctrl + W` | Ganti wallpaper random |
+| `Super + Shift + W` | Pilih wallpaper dari settings |
+| `Super + Shift + R` | Refresh tema templates |
 | `Super + Shift + T` | Toggle dark/light mode |
-| `Super + Space` | Launcher |
+| `Super + Space` | Launcher / pencarian aplikasi |
 | `Super + L` | Lock screen |
-| 3-finger L/R | Switch workspace |
-| 3-finger up | Fullscreen |
-| 3-finger down | Close window |
+| `Super + Return` | Buka terminal (Kitty) |
+| `Super + E` | Buka file manager (Dolphin) |
+| `Super + Q` | Tutup window |
+| `Super + F` | Fullscreen |
+| `Super + D` | Fullscreen (mode 1) |
+| 3 jari kiri/kanan | Pindah workspace |
+| 3 jari atas | Fullscreen |
+| 3 jari bawah | Tutup window |
 
 ## Install
 
@@ -64,6 +72,6 @@ git pull
 
 | Tombol | Fungsi |
 |---|---|
-| `Super + Shift + R` | Refresh theme templates |
-| `Super + W` | Ganti wallpaper random |
+| `Super + Shift + R` | Refresh tema templates |
+| `Super + Ctrl + W` | Ganti wallpaper random |
 | `Super + Shift + T` | Toggle dark/light mode |
