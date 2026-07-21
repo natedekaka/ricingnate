@@ -24,7 +24,6 @@ Hyprland + Noctalia Shell + Material You dynamic theming.
 | `Super + W` | Buka browser |
 | `Super + Ctrl + W` | Ganti wallpaper random |
 | `Super + Shift + W` | Pilih wallpaper dari settings |
-| `Super + Shift + R` | Refresh tema templates |
 | `Super + Shift + T` | Toggle dark/light mode |
 | `Super + Space` | Launcher / pencarian aplikasi |
 | `Super + L` | Lock screen |
@@ -72,6 +71,5 @@ git pull
 
 | Tombol | Fungsi |
 |---|---|
-| `Super + Shift + R` | Refresh tema templates |
 | `Super + Ctrl + W` | Ganti wallpaper random |
 | `Super + Shift + T` | Toggle dark/light mode |

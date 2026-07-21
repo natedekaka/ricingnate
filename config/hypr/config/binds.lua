@@ -92,7 +92,6 @@ hl.bind(mainMod .. " + SHIFT + P",       hl.dsp.exec_cmd("~/.local/bin/mirror-pr
 -- Theming and Wallpaper
 hl.bind(mainMod .. " + SHIFT + W", hl.dsp.exec_cmd(noctCall .. "settings-open wallpaper"))
 hl.bind(mainMod .. " + CONTROL + W", hl.dsp.exec_cmd(noctCall .. "wallpaper-random"))
-hl.bind(mainMod .. " + SHIFT + R", hl.dsp.exec_cmd(noctCall .. "templates-apply"))
 hl.bind(mainMod .. " + SHIFT + T", hl.dsp.exec_cmd(noctCall .. "theme-mode-toggle"))
 
 -- Clipboard
