@@ -131,7 +131,7 @@ color = "on_surface"
 [widget.workspaces]
 active_pill_size = 3.0
 capsule = true
-capsule_fill = "surface_container"
+capsule_fill = "on_secondary"
 display = "none"
 inactive_pill_size = 1.0
 pill_scale = 0.85
