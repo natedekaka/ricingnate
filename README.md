@@ -1,5 +1,8 @@
 # 🌀 RicingNate — Hyprland Rice
 
+Perjalananricing Hyprland di laptop ASUS VivoBook X415DA.  
+Warna mengalir dinamis dari wallpaper — ganti wallpaper, semua komponen berubah otomatis.
+
 Hyprland + Noctalia Shell + Material You dynamic theming.
 
 ## Stack
