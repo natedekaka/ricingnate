@@ -123,7 +123,7 @@ type = "sysmon"
 
 [widget.tray]
 capsule = true
-capsule_fill = "surface_container"
+capsule_fill = "on_secondary"
 
 [widget.volume]
 color = "on_surface"
